@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public Class Ex1
 {
 public static void main(string []args)
@@ -5,3 +6,6 @@ public static void main(string []args)
 System.out.println("Hello world");
 }
 }
+=======
+This is file3
+>>>>>>> newbranch
